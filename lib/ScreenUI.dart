@@ -31,7 +31,7 @@ class _ScreenUIState extends State<ScreenUI> {
     "+",
     '0',
     '.',
-    'ANS',
+    '00',
     "="
   ];
   var userQue ='' ;
